@@ -1,5 +1,5 @@
 * {
-  font-family: 'Lato', san-serif;
+  font-family: Consolas,monaco,monospace;
 }
 
 body {
@@ -12,7 +12,6 @@ body {
 #j-title {
   font-size: 1.2em;
   font-weight: 300;
-  font-style: italic;
 }
 
 #all {
